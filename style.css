@@ -1,5 +1,18 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+body { 
+  width;100%;
+  height:100%;
+  margin:0;
 }
+h1{color:red;
+  text-align;center:
+  image-align;center;
+}
+nav{links-align:center;
+    padding:10px;
+    color: grey;
+    font size-align:center;
+}
+div{
+  width:800px;
+}
+div{align-items:left;}
